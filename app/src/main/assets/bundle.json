@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "demo",
+      "pkg": "com.example.kinzirva.useofsmall.app.demo"
+    }
+  ]
+}
